@@ -1,4 +1,4 @@
-### Ola me chamo Nikko.
+### Hi imNikko.
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ly.nikko/)
 [![Blog](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@xn1kko)
